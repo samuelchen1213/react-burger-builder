@@ -1,6 +1,8 @@
 import React from 'react';
 import Aux from '../../HOC/Aux'
+
 import styles from './Layout.css'
+// ************************************************************************************************************ //
 
 // ! Replace div with proper components
 const layout = (props) => (
