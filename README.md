@@ -1,5 +1,5 @@
 # React Burger Builder
-Thank you for checking out this web app that I am currently building! This is a single page application that is also mobile responsive and allows users to virtually create a burger and order it!
+Thank you for checking out this web app that I am currently building! This is a single page application (also mobile responsive) and allows users to virtually create a burger and order it!
 
 ## Built using:
 - React Js
