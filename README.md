@@ -4,6 +4,7 @@ Thank you for checking out this web app that I am currently building! This is a 
 ## Built using:
 - React Js
 - CSS Modules
+- Firebase
 
 ## I will soon implement:
 - Redux Js
