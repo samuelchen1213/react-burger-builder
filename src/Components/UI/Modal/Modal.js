@@ -7,7 +7,7 @@ class Modal extends Component {
     
     // Only updates if this.props.show changes
     shouldComponentUpdate(nextProps, nextState) {
-        if(nextProps.show !== this.props.show) {
+        if(nextProps.show !== this.props.show || nextProps.children !== this.props.children) {
             return true;
         } else {
             return false;
