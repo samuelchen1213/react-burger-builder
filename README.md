@@ -5,6 +5,7 @@ Thank you for checking out this web app that I am currently building! This is a 
 - React Js
 - CSS Modules
 - Firebase
+- Axios
 
 ## I will soon implement:
 - Redux Js
@@ -14,6 +15,5 @@ Thank you for checking out this web app that I am currently building! This is a 
 - Authentication
 - Form Validation
 - Unit Testing
-- Axios
 
 This project allowed me to apply my skills in state management, react hooks, creation of modular components, to create a user friendly burger odering application!
