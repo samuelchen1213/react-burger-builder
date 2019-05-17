@@ -6,10 +6,10 @@ Thank you for checking out this web app that I am currently building! This is a 
 - CSS Modules
 - Firebase
 - Axios
+- React Router
 
 ## I will soon implement:
 - Redux Js
-- React Router
 - React Transition Group
 - Ajax
 - Authentication
