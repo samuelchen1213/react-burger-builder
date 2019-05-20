@@ -106,8 +106,8 @@ class ContactData extends Component {
         <form>
             {formArray.map(formEl => (
                 <Input 
-                    elementType={formEl.elementType}
-                    elementConfig={formEl.elementConfig}
+                    elementType={formEl.config.elementType}
+                    elementConfig={formEl.config.elementConfig}
                     value={formEl.value}
                     key={formEl.id}/>
             ))}
